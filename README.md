@@ -3,6 +3,7 @@ Xatkit Spotify Platform 🎵 🎸
 _Created with ❤️ by [María Noel Bassagoda](https://github.com/noebassagoda), [Maria Victoria Armand](https://gitlab.fing.edu.uy/maria.armand.ugon) and [Cecilia Guayta](https://gitlab.fing.edu.uy/cecilia.guayta)_
 _Supervised by [Daniel Calegari](https://gitlab.fing.edu.uy/dcalegar)_
 
+Create Xatkit bots to manipulate Spotify playlists
 
 ## Integrate Spotify
 * Head to [Spotify Developer](https://developer.spotify.com/dashboard/login) and register (or login to your account in case you already have one)
