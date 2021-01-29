@@ -1,4 +1,4 @@
-Xatkit - Chatbot based on MDE to manipulate Spotify 🎵 🎸  
+Xatkit Spotify Platform 🎵 🎸  
 ======
 _Created with ❤️ by [María Noel Bassagoda](https://github.com/noebassagoda), [Maria Victoria Armand](https://gitlab.fing.edu.uy/maria.armand.ugon) and [Cecilia Guayta](https://gitlab.fing.edu.uy/cecilia.guayta)_
 _Supervised by [Daniel Calegari](https://gitlab.fing.edu.uy/dcalegar)_
